@@ -6,10 +6,8 @@
   <img src="https://img.shields.io/badge/AVAILABLE_FOR_HIRE-00C853?style=for-the-badge&logo=upwork&logoColor=white" alt="Available for Hire"/>
 </div>
 
-** Senior Backend & Infrastructure Engineer | Odoo ERP Expert | FinTech Specialist**  
- Nairobi, Kenya (EAT / UTC+3) — *Built for real-time collaboration with US, UK & EU clients*
 
-I architect **high-availability systems**, deliver **production-ready M-Pesa gateways**, and automate complex **Odoo ERP workflows** that eliminate operational bottlenecks across Africa and beyond.
+I architect **high-availability systems**, deliver **production-ready software products **  that eliminate operational bottlenecks across Africa and beyond.
 
 [![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a905cc4c1df645ac)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-kamau-714a1a225/)
@@ -22,9 +20,9 @@ I architect **high-availability systems**, deliver **production-ready M-Pesa gat
 ###  Professional Focus & Services
 
 - **Enterprise ERP (Odoo v16–v18)** → End-to-end implementation, custom Python modules, automated workflows, third-party integrations  
-- **FinTech & African Payments** → Production-grade **M-Pesa Daraja 2.0** (STK Push, B2C, C2B, Webhooks) with zero-fail transaction logging  
+- **FinTech** → Focus on fintech solutions with production-grade payment integrations and secure transaction processing  
 - **Modern Backend Architecture** → Scalable REST/GraphQL APIs with FastAPI, NestJS & Node.js  
-- **DevOps & Infrastructure** → Linux server automation, AWS/DigitalOcean provisioning, Docker & CI/CD pipelines
+- **DevOps & Infrastructure** → Linux server automation, **Bash workflow automation**, AWS/DigitalOcean provisioning, Docker & CI/CD pipelines
 
 ###  Core Technology Stack
 
