@@ -1,60 +1,82 @@
-# Hi, I'm Paul Kamau Nyoike 
+# Paul Kamau Nyoike
 
-<img src="https://avatars.githubusercontent.com/u/63657593?v=4" align="left" width="150" style="border-radius: 50%; margin-right: 20px;"/>
+<a href="https://www.upwork.com/freelancers/~01a905cc4c1df645ac" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/63657593?v=4" align="right" width="160" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-left: 20px;"/>
+</a>
 
-**Odoo Expert & Senior Full-Stack Engineer | Python • M-Pesa FinTech Specialist** Based in Nairobi, Kenya 🇰🇪 (EAT timezone — perfect for US & EU clients)
+**Senior Backend & Infrastructure Engineer | Odoo ERP Expert | FinTech Specialist** 📍 Nairobi, Kenya (EAT / UTC+3) — *Optimized for seamless collaboration with US, UK & EU clients.*
 
-I deliver **production-ready Odoo custom modules**, Python backend solutions, secure **M-Pesa integrations**, and **high-performance Next.js SaaS platforms** that businesses actually use and pay for.
+I specialize in architecting high-availability systems, automating complex business workflows, and deploying robust ERP solutions. I build production-ready software that solves real-world operational bottlenecks, from enterprise resource planning to secure African payment gateways.
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6BBE4B?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a905cc4c1df645ac)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyoikepaul2@gmail.com)
-[![X](https://img.shields.io/twitter/follow/paulNyoike2?style=social)](https://x.com/paulNyoike2)
+[![Upwork: Top Rated](https://img.shields.io/badge/Upwork-Available_for_Hire-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a905cc4c1df645ac)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-kamau-714a1a225/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyoikepaul2@gmail.com)
 
 ---
 
-### 🛠 Core Tech Stack
+### 💼 Professional Focus & Services
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+* **Enterprise ERP Development (Odoo):** End-to-end implementation, custom Python modules, automated workflows, and third-party API integrations (v16-v18).
+* **FinTech & Regional Payments:** Production-grade integrations for M-Pesa (Daraja API) including STK Push, B2C, and C2B payment pipelines.
+* **Modern API & Backend Architecture:** Scalable RESTful/GraphQL services using Python (FastAPI), NestJS, and Node.js.
+* **DevOps & Infrastructure:** Linux server automation, secure cloud provisioning (AWS/DigitalOcean), and CI/CD pipelines using Bash and Docker.
 
----
+### 🛠 Core Technology Stack
 
-### What I Deliver on Upwork
-
-- **Odoo ERP Custom Development** — Modules, workflows, reports, dashboards, third-party integrations  
-- **Modern Full-Stack SaaS Apps** — Next.js + React with Prisma, Stripe, and Vercel AI SDK integrations  
-- **M-Pesa & FinTech Integrations** — Production STK Push, C2B, B2C (East Africa focus)  
-- **Python Backend & APIs** — Clean FastAPI/Django logic, data pipelines, and product catalogs  
-- **Infrastructure & Automation** — Pure Bash server toolkits, workflow engines, and deployment pipelines  
+* **Backend & Logic:** `Python` • `Node.js` • `TypeScript` • `NestJS` • `FastAPI`
+* **Enterprise Software:** `Odoo ERP` • `MedusaJS`
+* **Frontend & Web:** `React.js` • `Next.js` • `Tailwind CSS`
+* **Data & Infrastructure:** `PostgreSQL` • `Docker` • `Linux/Bash` • `Prisma ORM`
 
 ---
 
-## 📌 Pinned Repositories & Featured Work
+### 📌 Featured Open-Source Work & Pinned Repositories
 
-| High-Performance Web & SaaS | ERP, FinTech & Infrastructure |
-|-----------------------------|-------------------------------|
-| **[AI-SaaS Platform](https://github.com/nyoikepaul/ai-saas-app)**<br>Multi-modal intelligence hub with image, video, and code generation. Built with Next.js 14, Clerk, Prisma, and Stripe billing. | **[Ghana Real Estate Odoo Module](https://github.com/nyoikepaul/ghana_real_estate)**<br>Full Python-powered ERP with property management, payments & custom workflows. |
-| **[Gigflow Dashboard](https://github.com/nyoikepaul/gigflow)**<br>Comprehensive freelance management and financial tracking system designed for independent professionals. Next.js & Tailwind. | **[MedusaJS M-Pesa Gateway](https://github.com/nyoikepaul/medusa-payment-mpesa)**<br>Battle-tested STK Push integration for East African e-commerce operations. |
-| **[FastAPI Product Catalog](https://github.com/nyoikepaul/fastapi-product-catalog)**<br>Production-ready, highly scalable catalog API deployed on Vercel. Python infrastructure built for speed. | **[Bash Cloud Forge Pro](https://github.com/nyoikepaul/bash-cloud-forge-pro)**<br>Commercial-grade pure Bash toolkit for freelancers & agencies to automate server deployments and infrastructure. |
-
-> 👉 [View all repositories](https://github.com/nyoikepaul?tab=repositories)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 Enterprise & ERP Systems</h4>
+      <ul>
+        <li><b><a href="https://github.com/nyoikepaul/ghana_real_estate">Ghana Real Estate CRM (Odoo 16)</a></b><br/>A complete Python-based Odoo custom module delivered for a real-estate firm. Features property CRM, agent portals, localized GHS pricing, and complex inquiry workflows.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💸 FinTech & Commerce</h4>
+      <ul>
+        <li><b><a href="https://github.com/nyoikepaul/medusa-payment-mpesa">MedusaJS M-Pesa Gateway</a></b><br/>A production-ready payment provider integrating the Daraja 2.0 API (STK Push & Webhooks) into the Medusa headless commerce engine. Designed for zero-fail transaction logging.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ APIs & Backend Architecture</h4>
+      <ul>
+        <li><b><a href="https://github.com/nyoikepaul/fastapi-product-catalog">High-Performance Product Catalog</a></b><br/>A secure REST API built with Python, FastAPI, SQLAlchemy, and Pydantic. Features API Key authentication, Dockerization, and automated edge deployment.</li>
+        <li><b><a href="https://github.com/nyoikepaul/ai-saas-app">AI Multi-modal SaaS Engine</a></b><br/>A Python-driven backend architecture demonstrating scalable AI integration and prompt processing.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 DevOps & Frontend Tools</h4>
+      <ul>
+         <li><b><a href="https://github.com/nyoikepaul/bash-cloud-forge">Bash Cloud Forge</a></b><br/>A pure Bash DevOps toolkit for lightning-fast server provisioning, security hardening, and API deployments across DigitalOcean and AWS.</li>
+         <li><b><a href="https://github.com/nyoikepaul/gigflow">GigFlow Analytics Dashboard</a></b><br/>A premium freelance management dashboard built with Next.js 16 (App Router), TypeScript, Tailwind CSS, and Zustand for state management.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyoikepaul&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyoikepaul&theme=dark&hide_border=true&background=0D1117" alt="Streak" />
-</p>
+### 📊 GitHub Activity
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nyoikepaul&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777777" alt="Paul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyoikepaul&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777777" alt="Paul's GitHub Streak" width="48%" />
+</div>
 
-**💼 Available for immediate Upwork projects** Next.js SaaS • Odoo customization • FastAPI Backends • M-Pesa integrations  
+<br/>
 
-**[Invite me to your job →](https://www.upwork.com/freelancers/~01a905cc4c1df645ac)**
+<div align="center">
+  <b>Let's build something scalable.</b> <br/>
+  <a href="https://www.upwork.com/freelancers/~01a905cc4c1df645ac">Hire me on Upwork</a>
+</div>
