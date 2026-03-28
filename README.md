@@ -99,6 +99,6 @@ I architect high-availability systems, deliver production-ready software product
 
 <div align="center">
   <b>Let's build something scalable together.</b><br/>
-  <a href="https://www.upwork.com/freelancers/~01a905cc4c1df645ac"><strong>🚀 Hire me on Upwork</strong></a> • 
+  <a href="https://www.upwork.com/freelancers/~01a905cc4c1df645ac"><strong> Hire me on Upwork</strong></a> • 
   <a href="https://my-portfolio-smoky-seven-57.vercel.app"><strong>View Portfolio</strong></a>
 </div>
