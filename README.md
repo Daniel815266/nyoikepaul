@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/AVAILABLE_FOR_HIRE-00C853?style=for-the-badge&logo=upwork&logoColor=white" alt="Available for Hire"/>
 </div>
 
-
+# Hey, I'm Paul 👋
+ Senior Backend Engineer building production-grade APIs, ERP systems, and fintech integrations across Africa.
 I architect high-availability systems, deliver production-ready software products  that eliminate operational bottlenecks across Africa and beyond.
 
 [![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a905cc4c1df645ac)
