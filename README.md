@@ -49,6 +49,7 @@ I architect high-availability systems, deliver production-ready software product
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B67F?logo=tailwindcss&logoColor=white)
 
 ---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nyoikepaul&theme=github-compact&hide_border=true&color=c8ff00&line=c8ff00&point=ffffff)
 
 ###  Featured Open-Source Work
 
