@@ -14,7 +14,7 @@
   </a>
 
   
-  <p><b>Senior Backend Engineer | ERP Specialist | FinTech Architect</b></p>
+  
 
   <p>I build production-grade APIs, custom ERP systems, and seamless payment integrations.<br/>
   My focus is on architecting high-availability infrastructure and delivering software products<br/>
