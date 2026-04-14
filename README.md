@@ -103,8 +103,8 @@ I specialize in building complex, data-heavy systems. Here is a snapshot of my r
 
 <div align="center">
   <h3>Let's build something scalable together.</h3>
-  <a href="https://www.upwork.com/freelancers/~01a905cc4c1df645ac"><strong>💼 Hire me on Upwork</strong></a> &nbsp;•&nbsp;
-  <a href="https://my-portfolio-smoky-seven-57.vercel.app"><strong>🌐 View Portfolio</strong></a>
+  
+  <a href="https://my-portfolio-smoky-seven-57.vercel.app"><strong> View Portfolio</strong></a>
 </div>
 
 <div align="center">
