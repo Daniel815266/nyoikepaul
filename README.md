@@ -41,17 +41,6 @@
 
 ---
 
-###  Featured Engineering Work
-
-I specialize in building complex, data-heavy systems. Here is a snapshot of my recent production-ready work:
-
-*  **MedusaJS M-Pesa Gateway:** A production-ready payment integration enabling seamless mobile money transactions for East African e-commerce platforms.
-*  **East Africa Real Estate (Odoo Module):** A custom Enterprise ERP module designed to automate property management, tenant billing, and accounting workflows within the Odoo ecosystem.
-*  **Bash Cloud Forge Pro:** A professional DevOps provisioning toolkit utilizing Bash scripts for rapid server hardening and automated cloud infrastructure deployment.
-*  **GigFlow:** An enterprise-ready dashboard tailored for tracking projects, freelance metrics, and client deliverables, powered by a robust backend architecture.
-*  **FastAPI Product Catalog API:** A highly scalable cataloging service built with FastAPI, SQLAlchemy, and Supabase, deployed for edge performance on Vercel.
-
----
 
 ###  Professional Focus & Services
 
